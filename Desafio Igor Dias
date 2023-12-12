@@ -1,0 +1,17 @@
+- Entre como usuário root e Digite "setoolkit" no terminal.
+
+   OBS: Caso o valor informado a seguir seja diferente da opção, selecione o valor correpondente.
+
+* Digite "1" e dê "Enter" - Irá selecionar a opção "Social-Engineering Attacks". 
+
+* Digite "2" e dê "Enter" - Irá seleionar a opção "Website Attack Vectors". 
+
+* Digite "3" e dê "Enter" - Irá selecionar a opção "Credential Harvester Attack Method". 
+
+* Digite "2" e dê "Enter" - Irá selecionar a opção "2) Site Cloner"
+
+* Por padrão já irá vir o seu próprio IP sugerido, mas caso queira alternar é só colocar o novo ip. Para verificar o ip da sua máquina basta abrir um novo terminal e utilizar o comando "ip addr", e ele irá informar o seu ip.
+
+* Informe em seguida a URL do site que você queira clonar, no projeto é utilizado "http://www.facebook.com/?locale=pt_BR" e dê "Enter".
+
+Após isso será criado um site, que pode ser acessado usando o IP informado, lembrando que para acessar esse IP, sua máquina alvo tem que estar na mesma faixa. Mas como meio de teste você pode acessar usando sua própria máquina que criou o ataque de phising para testar.      
